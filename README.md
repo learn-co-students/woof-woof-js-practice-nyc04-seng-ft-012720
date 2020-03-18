@@ -51,3 +51,18 @@ When you have the pup's information, the dog info `div` should have the followin
 When a user clicks on the Filter Good Dogs button, two things should happen:
  - The button's text should change from "Filter good dogs: OFF" to "Filter good dogs: ON", or vice versa.
  - If the button now says "ON" (meaning the filter is on), then the Dog Bar should only show pups whose isGoodDog attribute is true. If the filter is off, the Dog Bar should show all pups (like normal).
+
+
+
+https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/01/12201051/cute-puppy-body-image.jpg
+
+https://specials-images.forbesimg.com/imageserve/5db4c7b464b49a0007e9dfac/960x0.jpg?fit=scale
+
+https://lh3.googleusercontent.com/proxy/OhpWrLvH_iPopEei3AaZ0T7mfP6ldDQH4OmTgb4_WmxBk-_qQBEl_B94pyzGKhb5Q0bIAg0L9BiNJIAVpuJNdbRBfBIUK-_9cCJeBpdvGZE
+
+
+https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/smartest-dog-breeds-1553287693.jpg?crop=0.671xw:1.00xh;0.167xw,0&resize=640:*
+
+
+
+https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074__340.jpg
